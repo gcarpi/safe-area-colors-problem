@@ -1,0 +1,7 @@
+{
+  "name": "safe-area-colors-problem",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
